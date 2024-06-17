@@ -5,6 +5,7 @@ A solução para facilitar a comunicação entre empresa e visitantes.
 
 #### 🏆 O projeto foi indicado e apresentado para a Sr. Ministra da Tecnologia Luciana Santos.
 
+<img src="Tela Login A.jpg">
 
 ## O que é?
 
