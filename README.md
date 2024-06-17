@@ -9,7 +9,7 @@ A solução para facilitar a comunicação entre empresa e visitantes.
 
 ## O que é?
 
-A aplicação foi desenvolvida e grupo durante o curso FAP- Desenvolvedor Fron-End realizado pela Softex. 
+A aplicação foi desenvolvida em grupo durante o curso FAP- Desenvolvedor Fron-End realizado pela Softex. 
 
 ❗ Problema: exibir nos monitores das televisões da recepção a localização de cada empresa que está alocada dentro do prédio comercial do ITBC. 
 
